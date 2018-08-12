@@ -1,0 +1,4 @@
+Pukachu1;40.02;-74.03
+Bulmasaur;41.5;-74.0
+NewTwo;50.3;-73.2
+Pujachu;40.01;-73.0
